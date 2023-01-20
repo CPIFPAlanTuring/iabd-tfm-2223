@@ -1,5 +1,5 @@
 
-<img height="52px" src="IABD_400.png.svg"> <img height="52px" src="accenture.svg">
+<img height="52px" src="IABD_400.png"> <img height="52px" src="accenture.svg">
 
 # Trabajos Fin de Máster - Curso 2022 / 2023
 
@@ -10,7 +10,10 @@ En este repositorio se encuentra centralizada toda la información relativa a lo
 * [Relación de Trabajos Fin de Máster](#relación-de-trabajos-fin-de-máster)
 * [Requisitos y criterios](#requisitos-y-criterios)
 * [Código y documentación a entregar](#código-y-documentación-a-entregar)
-* [Fechas a tener en cuenta](#Fechas a tener en cuenta)
+* [Fechas a tener en cuenta](#fechas-a-tener-en-cuenta)
+* [Cuadrante horario de las exposiciones](#cuadrante-horario-de-las-exposiciones)
+* [Evaluación del TFM](#evaluación-del-tfm)
+
 
 ## Relación de Trabajos Fin de Máster
 
