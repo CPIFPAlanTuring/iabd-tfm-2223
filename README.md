@@ -4,10 +4,10 @@ En este repositorio se encuentra centralizada toda la información relativa a lo
 
 ## Índice
 
-* [Requisitos y criterios](#requisitos-y-criterios-a-seguir)
-* [Relación de proyectos](#relación-de-proyectos)
-* [Calendario período ordinario](#calendario-período-ordinario)
-* [Calendario período extraordinario](#calendario-período-extraordinario)
+* [Relación de Trabajos Fin de Máster](#relación-de-trabajos-fin-de-máster)
+* [Requisitos y criterios](#requisitos-y-criterios)
+* [Código y documentación a entregar](#código-y-documentación-a-entregar)
+* [Fechas a tener en cuenta](#Fechas a tener en cuenta)
 
 ## Relación de Trabajos Fin de Máster
 
