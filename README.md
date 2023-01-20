@@ -1,3 +1,6 @@
+
+<img height="52px" src="IABD_400.png.svg"> <img height="52px" src="accenture.svg">
+
 # Trabajos Fin de Máster - Curso 2022 / 2023
 
 En este repositorio se encuentra centralizada toda la información relativa a los **Trabajos Fin de Máster del Curso de Especialización en Inteligencia Artificial y Big Data del CPIFP Málaga Tech Park**, en la convocatoria del curso 2022 / 2023.
