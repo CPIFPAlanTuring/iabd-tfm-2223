@@ -51,7 +51,7 @@ La duración de cada exposición será de 20 minutos (15 de exposición y 5 de p
 
 ### :calendar: viernes 17 de marzo de 2023
 
-<img height="52px" src="accenture.png">
+<img height="52px" src="accenture.svg">
 
 La duración de cada exposición será de 20 minutos (15 de exposición y 5 o 10 de preguntas). 
 
