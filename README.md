@@ -1,5 +1,5 @@
 
-<img height="60px" src="malaga_tech_park.png">&nbsp;&nbsp;&nbsp;<img height="60px" src="IABD_400.png">&nbsp;&nbsp;&nbsp;<img height="60px" src="accenture.svg">
+<img height="60px" src="malaga_tech_park.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="60px" src="IABD_400.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="60px" src="accenture.svg">
 
 # Trabajos Fin de Máster - Curso 2022 / 2023
 
