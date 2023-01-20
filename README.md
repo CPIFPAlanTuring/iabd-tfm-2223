@@ -36,10 +36,9 @@ El repositorio debe contener lo siguiente:
   * Descripción
   * Código fuente
   * Presentación en formato PDF. Se puede utilizar como apoyo para la exposición cualquier otro formato de presentación pero es obligatorio incluir siempre la presentación en PDF en el repositorio.
-  * Enlace a la aplicación en caso de que ésta se encuentre publicada en alguna plataforma.
-  * Bibliografía utilizada (manuales, enlaces a documentación, tutoriales, etc.).
-  * Vídeo de 5 minutos máximo, donde el alumno exponga brevemente su proyecto y muestre su funcionamiento. Es muy importante hacer una introducción diciendo el nombre de la aplicación y de qué trata en una frase, antes de pasar a los detalles técnicos. Se puede enseñar código, pero solo fragmentos y si realmente son cosas de interés.
-
+  * Enlace a la aplicación web.
+  * Recursos utilizados (procedencia de los datos, manuales o tutoriales consultados, etc.).
+  * Vídeo de 10 minutos máximo, donde el grupo exponga brevemente su proyecto y muestre su funcionamiento. Es muy importante hacer una introducción diciendo el nombre de la aplicación y de qué trata en una frase, antes de pasar a los detalles técnicos.
 
 ## 🗓️ Fechas a tener en cuenta
 
