@@ -24,7 +24,22 @@ Descripción de los datos. Se debe dar una descripción completa de los datos in
 5. Preparación de los datos para los algoritmos de Machine Learning. Se deben tratar los datos (limpiando, escalando, separando y todo lo que sea necesario) de tal forma que queden listos para entrenar el modelo.
 6. Entrenamiento del modelo y comprobación del rendimiento.  Se entrenarán uno o varios modelos, comprobando en cada caso el rendimiento que ofrecen mediante las apropiadas medidas de error y/o acierto.
 7. El TFM debe incluir alguna de las aplicaciones estudiadas en el tema de Procesamiento de Lenguaje Natural: reconocimiento de voz, síntesis de texto a voz, etc.
-8. Conclusiones. Se expondrán las conclusiones que se han obtenido en la realización del TFM.
+8. Se debe realizar también una aplicación web que haga uso del modelo entrenado.
+9. Conclusiones. Se expondrán las conclusiones que se han obtenido en la realización del TFM.
+
+## Código y documentación a entregar
+
+Todo el material debe estar incluido o enlazado en el repositorio del TFM de cada grupo.
+
+El repositorio debe contener lo siguiente:
+  * Título
+  * Descripción
+  * Código fuente
+  * Presentación en formato PDF. Se puede utilizar como apoyo para la exposición cualquier otro formato de presentación pero es obligatorio incluir siempre la presentación en PDF en el repositorio.
+  * Enlace a la aplicación en caso de que ésta se encuentre publicada en alguna plataforma.
+  * Bibliografía utilizada (manuales, enlaces a documentación, tutoriales, etc.).
+  * Vídeo de 5 minutos máximo, donde el alumno exponga brevemente su proyecto y muestre su funcionamiento. Es muy importante hacer una introducción diciendo el nombre de la aplicación y de qué trata en una frase, antes de pasar a los detalles técnicos. Se puede enseñar código, pero solo fragmentos y si realmente son cosas de interés.
+
 
 ## 🗓️ Fechas a tener en cuenta
 
@@ -70,3 +85,13 @@ La duración de cada exposición será de 20 minutos (15 de exposición y 5 o 10
 * 09:30h - 10:00h [🏅 Pareja seleccionada 1 - ]()
 * 10:00h - 10:30h [🏅 Pareja seleccionada 2 -]()
 * 10:30h - 11:00h [🏅 Pareja seleccionada 3 -]()
+
+## 📝 Evaluación del TFM
+
+La nota de ambos alumnos será la nota del TFM.
+
+Para la elección de los tres mejores proyectos que se expondrán a Accenture se tienen en cuenta los votos de los alumnos de forma individual con un 30% de peso y los votos de los profesores con un 70% de peso. Un alumno no puede votar por su propio equipo.
+
+
+
+
