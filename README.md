@@ -53,8 +53,10 @@ La duración de cada exposición será de 20 minutos (15 de exposición y 5 de p
 
 <img height="52px" src="accenture.svg">
 
+Exposición de los tres mejores TFM a Accenture.
+
 La duración de cada exposición será de 20 minutos (15 de exposición y 5 o 10 de preguntas). 
 
-* 09:30h - 10:00h [Pareja seleccionada 1 - ]()
-* 10:00h - 10:30h [Pareja seleccionada 2 -]()
-* 10:30h - 11:00h [Pareja seleccionada 3 -]()
+* 09:30h - 10:00h [🏅 Pareja seleccionada 1 - ]()
+* 10:00h - 10:30h [🏅 Pareja seleccionada 2 -]()
+* 10:30h - 11:00h [🏅 Pareja seleccionada 3 -]()
