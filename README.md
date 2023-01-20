@@ -9,6 +9,20 @@ En este repositorio se encuentra centralizada toda la información relativa a lo
 * [Calendario período ordinario](#calendario-período-ordinario)
 * [Calendario período extraordinario](#calendario-período-extraordinario)
 
+## Relación de Trabajos Fin de Máster
+
+Cada pareja debe cumplimentar la siguiente tabla:
+
+| Pareja | Primer integrante | Segundo integrante | Título del TFM | Enlace al repositorio |
+|:------:|:-----------------:|:------------------:|:--------------:|:---------------------:|
+|    1   |                   |                    |                |                       |
+|    2   |                   |                    |                |                       |
+|    3   |                   |                    |                |                       |
+|    4   |                   |                    |                |                       |
+|    5   |                   |                    |                |                       |
+|    6   |                   |                    |                |                       |
+|    7   |                   |                    |                |                       |
+
 ## Requisitos y criterios
 
 El proyecto se realiza por parejas elegidas por sorteo y la nota de ambos alumnos será la nota del proyecto.
@@ -58,10 +72,10 @@ La duración de cada exposición será de 20 minutos (15 de exposición y 5 de p
 
 ### :calendar: lunes 13 de marzo de 2023
 
-* 09:15h - 09:35h [Pareja 1 - ]()
-* 09:40h - 10:00h [Pareja 2 -]()
-* 10:05h - 10:25h [Pareja 3 -]()
-* 10:30h - 10:50h [Pareja 4 -]()
+* 09:15h - 09:35h - Pareja 1
+* 09:40h - 10:00h - Pareja 2
+* 10:05h - 10:25h - Pareja 3
+* 10:30h - 10:50h - Pareja 4
 
 <hr>
 
@@ -69,9 +83,9 @@ La duración de cada exposición será de 20 minutos (15 de exposición y 5 de p
 
 <hr>
 
-* 11:20h - 11:40h [Pareja 5 -]()
-* 11:45h - 12:05h [Pareja 6 -]()
-* 12:10h - 12:30h [Pareja 7 -]()
+* 11:20h - 11:40h - Pareja 5
+* 11:45h - 12:05h - Pareja 6
+* 12:10h - 12:30h - Pareja 7
 
 ### :calendar: viernes 17 de marzo de 2023
 
