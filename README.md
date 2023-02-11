@@ -21,7 +21,7 @@ Cada pareja debe cumplimentar la siguiente tabla:
 
 | Pareja | Primer integrante | Segundo integrante | Título del TFM | Enlace al repositorio |
 |:------:|:-----------------:|:------------------:|:--------------:|:---------------------:|
-|    1   |                   |                    |                |                       |
+|    1   | Oscar Pörtner Ostos | Juan Cerezo Serrano | Paddok | https://github.com/Legodark/paddok |
 |    2   |                   |                    |                |                       |
 |    3   |                   |                    |                |                       |
 |    4   |                   |                    |                |                       |
