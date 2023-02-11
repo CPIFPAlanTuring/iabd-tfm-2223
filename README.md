@@ -19,15 +19,15 @@ En este repositorio se encuentra centralizada toda la información relativa a lo
 
 Cada pareja debe cumplimentar la siguiente tabla:
 
-| Pareja | Primer integrante | Segundo integrante | Título del TFM | Enlace al repositorio |
-|:------:|:-----------------:|:------------------:|:--------------:|:---------------------:|
-|    1   | Oscar Pörtner Ostos | Juan Cerezo Serrano | Paddok | https://github.com/Legodark/paddok |
-|    2   |                   |                    |                |                       |
-|    3   |                   |                    |                |                       |
-|    4   |                   |                    |                |                       |
-|    5   |                   |                    |                |                       |
-|    6   |                   |                    |                |                       |
-|    7   |                   |                    |                |                       |
+| Pareja | Primer integrante   | Segundo integrante  | Título del TFM | Enlace al repositorio                            |
+|:------:|:-------------------:|:-------------------:|:--------------:|:------------------------------------------------:|
+|    1   | Oscar Pörtner Ostos | Juan Cerezo Serrano | Paddok         | https://github.com/Legodark/paddok               |
+|    2   | Miguel Gámez Ruiz   | Sergio Toscano Díaz | MalagaHouse    | https://github.com/sergiotoscanodiaz/MalagaHouse |
+|    3   |                     |                     |                |                                                  |
+|    4   |                     |                     |                |                                                  |
+|    5   |                     |                     |                |                                                  |
+|    6   |                     |                     |                |                                                  |
+|    7   |                     |                     |                |                                                  |
 
 ## Requisitos y criterios
 
