@@ -22,7 +22,7 @@ Cada pareja debe cumplimentar la siguiente tabla:
 | Pareja | Primer integrante | Segundo integrante | Título del TFM | Enlace al repositorio |
 |:------:|:-----------------:|:------------------:|:--------------:|:---------------------:|
 |    1   |                   |                    |                |                       |
-|    2   |                   |                    |                |                       |
+|    2   |Miguel Gámez Ruiz  |Sergio Toscano Díaz |MalagaHouse     |https://github.com/sergiotoscanodiaz/MalagaHouse |
 |    3   |                   |                    |                |                       |
 |    4   |                   |                    |                |                       |
 |    5   |                   |                    |                |                       |
