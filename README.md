@@ -27,7 +27,7 @@ Cada pareja debe cumplimentar la siguiente tabla:
 |    4   | Flores Chamizo Serrano | Diego Valenzuela Perez | P.E.T | https://github.com/fl0rch/Pet_Enhacement_Transition |
 |    5   |                     |                     |                |                                                  |
 |    6   | Ismael Armada González| Ángel Serón Márquez| KnoxQuack|https://github.com/Archerus35/KNOXQUACK.git                                                  |
-|    7   |                     |                     |                |                                                  |
+|    7   | Samuel Martínez Camacho | Miguel Ángel Ortega Durán | SaveYourLife | https://github.com/Smarcam/SaveYourLife.git |
 
 ## Requisitos y criterios
 
