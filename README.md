@@ -7,15 +7,15 @@ En este repositorio se encuentra centralizada toda la información relativa a lo
 
 ## Índice
 
-* [Relación de Trabajos Fin de Máster](#relación-de-trabajos-fin-de-máster)
-* [Requisitos y criterios](#requisitos-y-criterios)
-* [Código y documentación a entregar](#código-y-documentación-a-entregar)
-* [Fechas a tener en cuenta](#fechas-a-tener-en-cuenta)
-* [Cuadrante horario de las exposiciones](#cuadrante-horario-de-las-exposiciones)
-* [Evaluación del TFM](#evaluación-del-tfm)
+* [Relación de Trabajos Fin de Máster](#id1)
+* [Requisitos y criterios](#id2)
+* [Código y documentación a entregar](#id3)
+* [Fechas a tener en cuenta](#id4)
+* [Cuadrante horario de las exposiciones](#id5)
+* [Evaluación del TFM](#id6)
 
 
-## Relación de Trabajos Fin de Máster
+## Relación de Trabajos Fin de Máster<a name="id1"></a>
 
 Cada pareja debe cumplimentar la siguiente tabla:
 
@@ -29,7 +29,7 @@ Cada pareja debe cumplimentar la siguiente tabla:
 |    6   | Ismael Armada González| Ángel Serón Márquez| KnoxQuack|https://github.com/Archerus35/KNOXQUACK.git                                                  |
 |    7   | Samuel Martínez Camacho | Miguel Ángel Ortega Durán | SaveYourLife | https://github.com/Smarcam/SaveYourLife.git |
 
-## Requisitos y criterios
+## Requisitos y criterios<a name="id2"></a>
 
 El proyecto se realiza por parejas elegidas por sorteo y la nota de ambos alumnos será la nota del proyecto.
 
@@ -47,7 +47,7 @@ Descripción de los datos. Se debe dar una descripción completa de los datos in
 8. Se debe realizar también una aplicación web que haga uso del modelo entrenado.
 9. Conclusiones. Se expondrán las conclusiones que se han obtenido en la realización del TFM.
 
-## Código y documentación a entregar
+## Código y documentación a entregar<a name="id3"></a>
 
 Todo el material debe estar incluido o enlazado en el repositorio del TFM de cada grupo.
 
@@ -60,7 +60,7 @@ El repositorio debe contener lo siguiente:
   * Recursos utilizados (procedencia de los datos, manuales o tutoriales consultados, etc.).
   * Vídeo de 10 minutos máximo, donde el grupo exponga brevemente su proyecto y muestre su funcionamiento. Es muy importante hacer una introducción diciendo el nombre de la aplicación y de qué trata en una frase, antes de pasar a los detalles técnicos.
 
-## 🗓️ Fechas a tener en cuenta
+## 🗓️ Fechas a tener en cuenta<a name="id4"></a>
 
 * Sorteo de parejas y explicación del TFM: lunes 23 de enero
 * Comienzo del proyecto: lunes 13 de febrero
@@ -72,7 +72,7 @@ El repositorio debe contener lo siguiente:
 * Exposiciones para Accenture: viernes 17 de marzo de 2023
 
 
-## ⏰ Cuadrante horario de las exposiciones
+## ⏰ Cuadrante horario de las exposiciones<a name="id5"></a>
 
 La duración de cada exposición será de 20 minutos (15 de exposición y 5 de preguntas), dejando un margen de otros 5 minutos para el cambio. Todos los alumnos deberán estar presentes desde las 9:15h
 
@@ -105,7 +105,7 @@ La duración de cada exposición será de 20 minutos (15 de exposición y 5 o 10
 * 10:00h - 10:30h 🏅 Pareja seleccionada 2
 * 10:30h - 11:00h 🏅 Pareja seleccionada 3
 
-## 📝 Evaluación del TFM
+## 📝 Evaluación del TFM<a name="id6"></a>
 
 La nota de ambos alumnos será la nota del TFM.
 
