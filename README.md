@@ -21,7 +21,7 @@ Cada pareja debe cumplimentar la siguiente tabla:
 
 | Pareja | Primer integrante   | Segundo integrante  | Título del TFM | Enlace al repositorio                            |
 |:------:|:-------------------:|:-------------------:|:--------------:|:------------------------------------------------:|
-|    1   | Oscar Pörtner Ostos | Juan Cerezo Serrano | Paddock         | https://github.com/Legodark/paddok               |
+|    1   | Oscar Pörtner Ostos | Juan Cerezo Serrano | Paddock         | https://github.com/Legodark/paddock               |
 |    2   | Miguel Gámez Ruiz   | Sergio Toscano Díaz | MalagaHouse    | https://github.com/sergiotoscanodiaz/MalagaHouse |
 |    3   | Jesús Jiménez García | Jose Pérez Soler   | VIAD           | https://github.com/JesusJiga/VIAD                |
 |    4   | Flores Chamizo Serrano | Diego Valenzuela Perez | P.E.T | https://github.com/fl0rch/Pet_Enhacement_Transition |
