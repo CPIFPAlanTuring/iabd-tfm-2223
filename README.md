@@ -96,7 +96,7 @@ La duración de cada exposición será de 20 minutos (15 de exposición y 5 de p
 
 ## 📍 Lugar de las exposiciones<a name="id6"></a>
 
-Las exposiciones tendrán lugar en [C/ Frederick Terman,3. 29590, PTA](https://goo.gl/maps/Hi65Z7uMpk467kyD9).
+Las exposiciones tendrán lugar en [C/ Frederick Terman,3. 29590, PTA](https://goo.gl/maps/NUnpUFXAWocgUKxv9).
 
 <img src="incubadora.png">
 
