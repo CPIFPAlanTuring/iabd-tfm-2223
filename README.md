@@ -12,7 +12,8 @@ En este repositorio se encuentra centralizada toda la información relativa a lo
 * [Código y documentación a entregar](#id3)
 * [Fechas a tener en cuenta](#id4)
 * [Cuadrante horario de las exposiciones](#id5)
-* [Evaluación del TFM](#id6)
+* [Lugar de las exposiciones](#id6)
+* [Evaluación del TFM](#id7)
 
 
 ## Relación de Trabajos Fin de Máster<a name="id1"></a>
@@ -97,7 +98,7 @@ La duración de cada exposición será de 20 minutos (15 de exposición y 5 de p
 
 Las exposiciones tendrán lugar en [C/ Frederick Terman,3. 29590, PTA](https://goo.gl/maps/Hi65Z7uMpk467kyD9).
 
-<img src="img/incubadora.png">
+<img src="incubadora.png">
 
 ### :calendar: viernes 17 de marzo de 2023
 
@@ -111,7 +112,7 @@ La duración de cada exposición será de 20 minutos (15 de exposición y 5 o 10
 * 10:00h - 10:30h 🏅 Pareja seleccionada 2
 * 10:30h - 11:00h 🏅 Pareja seleccionada 3
 
-## 📝 Evaluación del TFM<a name="id6"></a>
+## 📝 Evaluación del TFM<a name="id7"></a>
 
 La nota de ambos alumnos será la nota del TFM.
 
