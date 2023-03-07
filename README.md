@@ -93,6 +93,12 @@ La duración de cada exposición será de 20 minutos (15 de exposición y 5 de p
 * 11:45h - 12:05h - Pareja 6
 * 12:10h - 12:30h - Pareja 7
 
+## 📍 Lugar de las exposiciones<a name="id6"></a>
+
+Las exposiciones tendrán lugar en [C/ Frederick Terman,3. 29590, PTA](https://goo.gl/maps/Hi65Z7uMpk467kyD9).
+
+<img src="img/incubadora.png">
+
 ### :calendar: viernes 17 de marzo de 2023
 
 <img height="52px" src="accenture.svg">
